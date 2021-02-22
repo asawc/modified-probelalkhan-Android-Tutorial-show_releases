@@ -85,7 +85,7 @@ public class AddReleaseActivityCustViewDial extends AppCompatActivity {
 
         final Button productsButton = (Button) findViewById(R.id.products_button);
         final Button employeeButton = (Button) findViewById(R.id.employees_button);
-        final Button addReleaseButton = (Button) findViewById(R.id.butonAddRelease);
+        final Button addReleaseButton = (Button) findViewById(R.id.fab);
 
         final ListView prodsListView = findViewById(R.id.products_list);
 

@@ -10,7 +10,7 @@
     <com.budiyev.android.codescanner.CodeScannerView
         android:id="@+id/scanner_view"
         android:layout_width="match_parent"
-        android:layout_height="634dp"
+        android:layout_height="644dp"
         android:layout_alignStart="@id/buttonCheck"
         app:autoFocusButtonColor="@android:color/white"
         app:autoFocusButtonVisible="true"
